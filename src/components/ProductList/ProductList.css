@@ -1,0 +1,16 @@
+li{
+    display: flex;
+    /* width: 500px; */
+    justify-content: space-around;
+    margin-inline: auto;
+    color: white;
+    border-bottom: 1px solid yellow;
+    padding-bottom: 8px;
+    align-items: center;
+}
+
+li button{
+    padding: 10px 40px;
+    /* font-size: 13px; */
+    font-weight: 800;
+}
